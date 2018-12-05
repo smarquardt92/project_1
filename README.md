@@ -1,1 +1,5 @@
-# project_1
+# Project 1
+
+Team name:
+
+Data sources:
