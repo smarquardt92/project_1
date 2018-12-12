@@ -17,12 +17,12 @@ data.austintexas.gov
 
 
 Endpoints:
-1. scatterplot:
-	- y axis = population, x axis = number of accidents that year, color = year (2013, etc)
+1. line graph:
+	- number of accidents per day vs. day
 2. pie plot:
 	- traffic hazards, accidents, road impediments
 3. bar graphs:
-	- number of accidents per day, week, or month (x-axis = unit of time, y-axis = number of accidents)
+	- number of accidents per day of the week (x-axis = unit of time, y-axis = number of accidents)
 	- holiday comparison (+/- 1 day around holiday)
 	- time of day (number of accidents that occur at certain point of 	day)
 4. "heat" map:
@@ -38,7 +38,7 @@ Delegations:
 - "heat" map: Sarah
 - bar graphs: Becky (number of accidents, holiday comparison), Sarah (time of day) 
 - pie plot: Luis
-- scatterplot: Omar
+- line graph: Omar
 - assumptions: Omar
 
 
