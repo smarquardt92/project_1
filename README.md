@@ -18,7 +18,7 @@ data.austintexas.gov
 
 Endpoints:
 1. line graph:
-	- # of accidents per day vs. day
+	- number of accidents per day vs. day
 2. pie plot:
 	- traffic hazards, accidents, road impediments
 3. bar graphs:
