@@ -7,38 +7,40 @@ Becky Bobba,
 Sarah Marquardt
 
 Description:
-An analysis of trends on traffic in the greater Austin area over the past 5 years.
+An analysis of time-based trends on traffic in the greater Austin area over the past year.
 
 Questions to answer:
-How does time of year, day, weather, holiday, area, driver demographics affect traffic accidents?
+- What time of day do most traffic incidents occur?
+
+- What day of the week do most traffic incidents occur?
+  
+- What day of the year do most traffic incidents occur?
+  
+- Where in Austin do most incidents occur?
+
+- Are the majority of incidents impediments, hazards, or accidents? 
+
 
 Data sources: 
 data.austintexas.gov
 
 
-Endpoints:
+Plots:
 1. line graph:
 	- number of accidents per day vs. day
+	- number of accidents per day by category vs day
 2. pie plot:
 	- traffic hazards, accidents, road impediments
 3. bar graphs:
-	- number of accidents per day of the week (x-axis = unit of time, y-axis = number of accidents)
-	- holiday comparison (+/- 1 day around holiday)
-	- time of day (number of accidents that occur at certain point of 	day)
+	- number of accidents per day vs. day of the week
+	- average number of accidnents per hour vs hour of day)
 4. "heat" map:
 	- geographic map of where accidents occur
 
 
 Assumptions:
- - traffic hazards are differentiated from traffic accidents
- - compare frequency of accidents to population growth
-
-Delegations:
-- data cleaning: Luis & Omar
-- "heat" map: Sarah
-- bar graphs: Becky (number of accidents, holiday comparison), Sarah (time of day) 
-- pie plot: Luis
-- line graph: Omar
-- assumptions: Omar
+- All incidents have been accounted for and reported
+- All incidents are correctly categorized
+- All incidents are mutually exclusive; one incident does not have 2 categories
 
 
