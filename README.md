@@ -21,10 +21,7 @@ Questions to answer:
 
 - Are the majority of incidents impediments, hazards, or accidents? 
 
-
-Data sources: 
-data.austintexas.gov
-
+**[Data sources:](data.austintexas.gov)**
 
 Plots:
 1. line graph:
