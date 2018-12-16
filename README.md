@@ -29,7 +29,7 @@ An analysis of time-based trends on traffic in the greater Austin area over the 
 ### 1. Pie Plot (Category Breakdown):
 - [traffic hazards, accidents, road impediments](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Pie%20-%20Category%20Breakdown.png)
 ### 2. Bar Graphs:
--[Total Incidents by Hour of Day](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Bar%20-%20Total%20Issues%20(per%20Hour%20of%20Day).png)
+- [Total Incidents by Hour of Day](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Bar%20-%20Total%20Issues%20(per%20Hour%20of%20Day).png)
 - [Avereage Total Incidents per Weekday](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Bar%20-%20Avg%20Issues%20(per%20Weekday).png)
 ### 1. line graphs:
 - Total Issues per Day Over Year: [9x16](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%20(per%20Day%20over%20Year).png) ; [Wide](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%20(per%20Day%20over%20Year)%20-%20Wide.png)
@@ -41,4 +41,4 @@ An analysis of time-based trends on traffic in the greater Austin area over the 
 ## Assumptions:
 - All incidents have been accounted for and reported
 - All incidents are correctly categorized
-- All incidents are mutually exclusive; one incident does not have 2 categories
+- Categories are mutually exclusive; Incident can only fall into 1 category
