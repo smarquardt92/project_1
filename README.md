@@ -1,10 +1,10 @@
 # Project 1 - Traffic Trends and Influences in Austin, TX
 
-Team members:
-Omar Abusheikh,
-Luis Verde,
-Becky Bobba,
-Sarah Marquardt
+### Team members:
+### Omar Abusheikh,
+### Luis Verde,
+### Becky Bobba,
+### Sarah Marquardt
 <br><br>**[Link to Presentation](https://docs.google.com/presentation/d/1TF4UrC2hs1EZ9PrRqdeRnq1IR_v6a1V49CZq8ZrcmCQ/edit?usp=sharing)**
 
 ## Description:
