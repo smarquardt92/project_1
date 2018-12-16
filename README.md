@@ -24,7 +24,7 @@ An analysis of time-based trends on traffic in the greater Austin area over the 
 **Data Source: [data.austintexas.gov](data.austintexas.gov)**
 
 ## Plots:
-### 1. line graph:
+### 1. line graphs:
 	- number of accidents per day vs. day
 	- number of accidents per day by category vs day
 ### 2. pie plot:
