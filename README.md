@@ -5,7 +5,7 @@ Omar Abusheikh,
 Luis Verde,
 Becky Bobba,
 Sarah Marquardt
-<br><br>**[Link to Presentation]**(https://docs.google.com/presentation/d/1TF4UrC2hs1EZ9PrRqdeRnq1IR_v6a1V49CZq8ZrcmCQ/edit?usp=sharing)
+<br><br>**[Link to Presentation](https://docs.google.com/presentation/d/1TF4UrC2hs1EZ9PrRqdeRnq1IR_v6a1V49CZq8ZrcmCQ/edit?usp=sharing)**
 
 Description:
 An analysis of time-based trends on traffic in the greater Austin area over the past year.
