@@ -15,15 +15,15 @@ Sarah Marquardt
 An analysis of time-based trends on traffic in the greater Austin area over the past year.
 
 ## Questions to answer:
-- What time of day do most traffic incidents occur?
+- What _time of day_ do most traffic incidents occur?
 
-- What day of the week do most traffic incidents occur?
+- What _day of the week_ do most traffic incidents occur?
   
-- What day of the year do most traffic incidents occur?
+- What _day of the year_ do most traffic incidents occur?
   
-- Where in Austin do most incidents occur?
+- _Where_ in Austin do most incidents occur?
 
-- Are the majority of incidents impediments, hazards, or accidents? 
+- Are the _majority_ of incidents impediments, hazards, or accidents? 
 
 **Data Source: [data.austintexas.gov](data.austintexas.gov)**
 
