@@ -1,4 +1,4 @@
-# Project 1 - Traffic Trends and Influences in Austin, TX
+# <center>Project 1 - Traffic Trends and Influences in Austin, Texas </center>
 
 ![ATX](http://res.cloudinary.com/culturemap-com/image/upload/f_auto,q_auto,w_auto/c_limit,w_1200/v1506350048/photos/232190_original.jpg)
 
@@ -28,16 +28,16 @@ An analysis of time-based trends on traffic in the greater Austin area over the 
 **Data Source: [data.austintexas.gov](data.austintexas.gov)**
 
 ## Plots:
-### 1. Pie Plot (Category Breakdown):
+### 1) Pie Plot (Category Breakdown):
 - [traffic hazards, accidents, road impediments](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Pie%20-%20Category%20Breakdown.png)
-### 2. Bar Graphs:
+### 2) Bar Graphs:
 - [Total Incidents by Hour of Day](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Bar%20-%20Total%20Issues%20(per%20Hour%20of%20Day).png)
 - [Avereage Total Incidents per Weekday](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Bar%20-%20Avg%20Issues%20(per%20Weekday).png)
-### 1. line graphs:
+### 3) line graphs:
 - Total Issues per Day Over Year: [9x16](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%20(per%20Day%20over%20Year).png) ; [Wide](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%20(per%20Day%20over%20Year)%20-%20Wide.png)
 - Total Issues for all Categories per Day Over Year: [9x16](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%203%20Categories%20(per%20Day%20over%20Year).png) ; [Wide](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%203%20Categories%20(per%20Day%20over%20Year)%20-%20Wide.png)
 - Total Accidents per Day Over Year: [9x16](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Accidents%20(per%20Day%20over%20Year).png) ; [Wide](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Accidents%20(per%20Day%20over%20Year)%20-%20Wide.png)
-### 4. "Heat" Map:
+### 4) "Heat" Map:
 - Geographic Map of where accidents occur
 
 ## Assumptions:
