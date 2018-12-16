@@ -1,4 +1,4 @@
-<center> # Project 1 - Traffic Trends and Influences in Austin, Texas </center>
+# <center>Project 1 - Traffic Trends and Influences in Austin, Texas</center>
 
 ![ATX](http://res.cloudinary.com/culturemap-com/image/upload/f_auto,q_auto,w_auto/c_limit,w_1200/v1506350048/photos/232190_original.jpg)
 
