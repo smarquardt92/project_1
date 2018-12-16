@@ -38,7 +38,7 @@ An analysis of time-based trends on traffic in the greater Austin area over the 
 - Total Issues for all Categories per Day Over Year: [9x16](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%203%20Categories%20(per%20Day%20over%20Year).png) ; [Wide](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Issues%203%20Categories%20(per%20Day%20over%20Year)%20-%20Wide.png)
 - Total Accidents per Day Over Year: [9x16](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Accidents%20(per%20Day%20over%20Year).png) ; [Wide](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Line%20-%20Total%20Accidents%20(per%20Day%20over%20Year)%20-%20Wide.png)
 ### 4) "Heat" Map:
-- Geographic [Map](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-HeatMap%20-%20Manual%20Download.png) of where accidents occur
+- [Geographic Map of Where Accidents Occur](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-HeatMap%20-%20Manual%20Download.png)
 
 ## Assumptions:
 - All incidents have been accounted for and reported
