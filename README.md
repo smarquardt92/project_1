@@ -29,8 +29,9 @@ An analysis of time-based trends on traffic in the greater Austin area over the 
 ### 1. line graphs:
 	- number of accidents per day vs. day
 	- number of accidents per day by category vs day
-### 2. pie plot:
-	- traffic hazards, accidents, road impediments
+### 2. Pie Plot (Category Breakdown):
+        - [traffic hazards, accidents, road impediments](https://github.com/smarquardt92/project_1/blob/master/Deliverables/Plot-Pie%20-%20Category%20Breakdown.png)
+	- 
 ### 3. bar graphs:
 	- number of accidents per day vs. day of the week
 	- average number of accidnents per hour vs hour of day)
